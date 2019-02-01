@@ -8,7 +8,8 @@ class MaoPsoft
 public:
 	MaoPsoft(char* arr,int length);
 	~MaoPsoft(void);
-	char* Bubble_soft(void);
+	char* Bubble_soft(void);//√∞≈›≈≈–Ú
+	char* Select_soft(void);//—°‘Ò≈≈–Ú
 	void print_soft(char* input,int length);
 
 private:
